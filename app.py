@@ -89,7 +89,3 @@ if resume:
 
     for skill in missing_skills:
         st.write(f"💡 Learn {skill} fundamentals")
-
-    st.subheader("Resume Text")
-
-    st.write(text)
